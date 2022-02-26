@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+<h1 align="center">个人简历在线版</h1>
+<p>《悟》
+悟道休言天命，
+修行勿取真经。
+一悲一喜一枯荣，
+哪个前生注定？
+袈裟本无清净，
+红尘不染性空。
+幽幽古刹千年钟，
+都是痴人说梦。</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 特点
 
-## Available Scripts
+- 在线版个人简历预览,支持导出为 pdf
+- 3d graphic 信息预览.支持截图下载
+- 基于 react 构建
 
-In the project directory, you can run:
+## 使用
 
-### `npm start`
+- 下载
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+git clone 或 下载源码包
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+```bash
+$ git clone 仓库地址
+```
 
-### `npm test`
+- 安装依赖
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+```bash
+$ npm install or npm i
+```
 
-### `npm run build`
+- 运行
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+$ npm run carco
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 贡献
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+> fork 或者 pull request。也可以是 issue. 当然最棒的就是 star
