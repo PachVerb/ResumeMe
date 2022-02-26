@@ -2,23 +2,20 @@
  * @Author: wangshan
  * @Date: 2022-01-27 17:47:47
  * @LastEditors: wangshan
- * @LastEditTime: 2022-02-26 01:50:55
+ * @LastEditTime: 2022-02-27 03:51:01
  * @Description:
  */
 import React from "react";
 import ReactDOM from "react-dom";
-import "./index.css";
-import App from "./App";
-// import reportWebVitals from "./reportWebVitals";
+import { BrowserRouter } from "react-router-dom";
+import "@/assets/style/index.css";
+import App from "@/App";
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <BrowserRouter>
+    <React.StrictMode>
+      <App />
+    </React.StrictMode>
+  </BrowserRouter>,
   document.getElementById("root")
 );
-function test() {
-  setTimeout(() => {
-    console.log(111);
-  }, 100);
-}
