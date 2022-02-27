@@ -4,14 +4,12 @@
   background-color: red;
   padding: 24px;
 }
-
-@media screen and(min-width: 1201px) {
+@media screen and (min-width: 1201px) {
   .content-wrap {
     width: 50vw;
   }
 }
-
-@media screen and(max-width: 1201px) {
+@media screen and (max-width: 1201px) {
   .content-wrap {
     width: 100vw;
   }
@@ -20,8 +18,7 @@
   display: flex;
   margin: 12px 0;
   min-height: 500px;
-  background: no-repeat center / cover
-    url(https://img1.baidu.com/it/u=4050062314,1116360005&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500);
+  background: no-repeat center / cover url(https://img1.baidu.com/it/u=4050062314,1116360005&fm=253&fmt=auto&app=138&f=JPEG?w=889&h=500);
 }
 .artitle-wrap {
   text-align: justify;
