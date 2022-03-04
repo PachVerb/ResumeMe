@@ -39,4 +39,4 @@ $ npm run carco
 
 ## 贡献
 
-> fork 或者 pull request。也可以是 issue. 当然最棒的就是 star
+> fork\pull-request\issue. star！:star:
